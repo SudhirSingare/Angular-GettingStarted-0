@@ -33,3 +33,7 @@ COMMITTED to local repo
 PUSHED to cloud repo
 
 PAUSED for night !!
+
+### 2018 11 04 MEV
+CONTNUED lesson
+TRIED to simply open local repo on htp envy and run >npm start, but generated an error message (something I'm forgetting?)
