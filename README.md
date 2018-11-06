@@ -47,3 +47,24 @@ RE-TRIED >npm start
 
 => worked :-) ! 
 
+### 2018 11 05 MEV
+
+CONTNUED lesson...
+
+LEARNED about Angular Components, Angular Modules, Angular Decorators...
+
+REMOVED AngularCLI-generated guts of App.Component.ts file
+
+RE-CODED App.Component.ts from scratch (imports, decorators, class declaration, properties)
+
+REMOVED AngularCLI-generated guts of index.html file
+
+RE-CODED index.html 
+
+=> WORKED :-) ! 
+
+COMMITTED + PUSHED
+
+PAUSED for night...
+
+
