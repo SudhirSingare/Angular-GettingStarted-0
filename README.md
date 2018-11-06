@@ -36,9 +36,14 @@ PAUSED for night !!
 
 ### 2018 11 04 MEV
 CONTNUED lesson
+
 TRIED to simply open local repo on htp envy and run >npm start, but generated an error message (something I'm forgetting?)
+
 REMEMBERED ! NEED to cd into the \APM-Start DIRECTORY before launching the >npm start command !!!!!
+
 CD-ed into .\APM-Start
+
 RE-TRIED >npm start
+
 => worked :-) ! 
 
