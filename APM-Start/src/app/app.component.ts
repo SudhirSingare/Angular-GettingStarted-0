@@ -8,10 +8,7 @@ import { Component } from "@angular/core";
       <div>MV First Component</div>
     </div>
   `
-
 })
 export class AppComponent {
-  pageTitle: string = 'Mark Vogt Angular App Page Title';
-
-
+  pageTitle: string = "Mark Vogt's first-ever Angular App Page Title";
 }

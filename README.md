@@ -3,7 +3,7 @@
 
 # BEGIN MVOGT LOG...
 
-### 2018 11 01 1100p 
+## 2018 11 01 1100p 
 CREATED (manually) new cloud repo /markvogt/Angular-GettingStarted-0
 
 COPIED URL
@@ -34,7 +34,7 @@ PUSHED to cloud repo
 
 PAUSED for night !!
 
-### 2018 11 04 MEV
+## 2018 11 04 MEV
 CONTNUED lesson
 
 TRIED to simply open local repo on htp envy and run >npm start, but generated an error message (something I'm forgetting?)
@@ -47,7 +47,7 @@ RE-TRIED >npm start
 
 => worked :-) ! 
 
-### 2018 11 05 MEV
+## 2018 11 05 MEV
 
 CONTNUED lesson...
 
@@ -66,5 +66,19 @@ RE-CODED index.html
 COMMITTED + PUSHED
 
 PAUSED for night...
+
+================================================================
+
+## 2018 11 17 700a CST MV: 
+
+CONNTINUED tutorial; REVIEWED lessons so far; BEGAN work on more complex lessons re: creating components, routes...
+
+INSTALLED (Twitter) Bootstrap 4.1.3 and current FontAwesome using >npm install bootstrap fontawesome    
+
+=> some warnings about some jQuery-related dependencies requiring manual installation, but tutorial explain warnings can be IGNORED because 
+
+are only using a subset of the entire Bootstrap library... 
+
+
 
 
