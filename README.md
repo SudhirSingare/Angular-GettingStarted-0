@@ -77,7 +77,13 @@ INSTALLED (Twitter) Bootstrap 4.1.3 and current FontAwesome using >npm install b
 
 => some warnings about some jQuery-related dependencies requiring manual installation, but tutorial explain warnings can be IGNORED because 
 
-are only using a subset of the entire Bootstrap library... 
+are only using a subset (the STYLING features) of the entire Bootstrap library... 
+
+RAN >npm audit fix       in order to resolve some of the 12 resulting "vulnerabilities" (9 low, 3 high)
+
+=> fixed ZERO vulnerabilities :-( . LIKELY due to the missing dependences needed for a FULL install of Bootstrap & FontAwesome... 
+
+
 
 
 
