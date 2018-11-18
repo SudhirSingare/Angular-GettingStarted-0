@@ -104,3 +104,8 @@ LOOP through this JSON (I THINK) one row at a time, and populate the Angular7 dy
 PAUSING FOR THE NIGHT 
 
 ===========================================================
+
+## 2018 11 18 639a CST MV: 
+
+CONTINUED tutorial... 
+
