@@ -1,7 +1,7 @@
 <div class='card'>
 
     <div class='card-header'>
-        MV Product List
+        {{pageTitle}}
     </div>
 
     <div class='card-body'>
@@ -22,7 +22,7 @@
         </div>
 
         <div class='table-responsive'>
-            <table class='table'>
+            <table class='table' *ngIf='products && products.length'>
                 <thead>
                     <th>
                         <button class='btn btn-primary'>
@@ -36,7 +36,14 @@
                     <th>Star Rating</th>
                 </thead>
                 <tbody>
-
+                    <tr *ngFor='let product of products'>
+                        <td><img src={{product.imageUrl}} width='100px'/></td>
+                        <td>{{product.productName}}</td>
+                        <td>{{product.productCode}}</td>
+                        <td>{{product.releaseDate}}</td>
+                        <td>{{product.price}}</td>
+                        <td>{{product.StarRating}}</td>
+                    </tr>
                 </tbody>
             </table>
 

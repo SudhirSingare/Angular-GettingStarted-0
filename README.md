@@ -83,8 +83,7 @@ RAN >npm audit fix       in order to resolve some of the 12 resulting "vulnerabi
 
 => fixed ZERO vulnerabilities :-( . LIKELY due to the missing dependences needed for a FULL install of Bootstrap & FontAwesome... 
 
+ADDED COMPONENT: "product-list.component" 
 
-
-
-
+CREATED product-list.component.html 
 
