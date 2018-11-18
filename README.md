@@ -91,3 +91,16 @@ CREATED table in product-list.component.html
 
 ADDED dynamic population to table using *ngIf and *ngFor  Angular system directives - VERY ELEGANT :-) VERY POWERFUL :-) 
 
+=> ALL WORKS FINE !!! 
+
+NEXT: need to learn how to: 
+
+MAKE a REST call into SharePoint Online (o365) from this Angular SPA
+
+RETURN the list of SPList Items in a JSON response document; and 
+
+LOOP through this JSON (I THINK) one row at a time, and populate the Angular7 dynamic HTML table using the SPLIST as the data source ! 
+
+PAUSING FOR THE NIGHT 
+
+===========================================================
