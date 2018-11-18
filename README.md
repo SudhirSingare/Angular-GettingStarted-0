@@ -87,3 +87,7 @@ ADDED COMPONENT: "product-list.component"
 
 CREATED product-list.component.html 
 
+CREATED table in product-list.component.html
+
+ADDED dynamic population to table using *ngIf and *ngFor  Angular system directives - VERY ELEGANT :-) VERY POWERFUL :-) 
+
