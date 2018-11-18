@@ -109,3 +109,13 @@ PAUSING FOR THE NIGHT
 
 CONTINUED tutorial... 
 
+LEARNED about Interpolation, Property Binding, Method Binding; 
+
+ADDED property binding to IMG element...
+
+ADDED method binding to Hide/Show Image button...
+
+=> ALL WORKS :-) 
+
+SAVED | COMMITTED | PUSHED...
+
