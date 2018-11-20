@@ -125,3 +125,20 @@ CODED (started) search filtering...
 
 DEFINED interface IProduct to use instead of "any[]" array... 
 
+=======================================================
+
+## 2018 11 19 900p CST MV
+
+CONTINUED tutorial...
+
+DEFINED new encapsulated styles for product-list component
+
+CODED custom pipe for replacing "-" with " " => WORKS :-) 
+
+BEGAN work on implementin the filtered searcch, but got tired... 
+
+PAUSED for night...
+
+UPDATED readme => SOLUTION INCOMPLETE; Filtered Display NOT YET working !!! 
+
+========================================================
